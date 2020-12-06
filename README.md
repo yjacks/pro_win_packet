@@ -1,2 +1,20 @@
 # pro_win_packet
-一个windows下的软件包管理器
+### 一个windows下的软件包管理器
+### 以后我都不会更新了
+## 下载基于http&https协议，从一个list.json获取链接
+#### 架构
+#### main.py&back.py
+#### 软件包
+#### setting.json
+#### list.json
+### list.json架构
+####[
+#### {
+#### "name":"name"
+#### "href":"url"
+#### "version":"ver"}*n
+#### ]
+### setting.json架构
+#### {
+#### "r_url":"http://***.****/index.json"
+#### }
